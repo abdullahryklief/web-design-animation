@@ -1,0 +1,9 @@
+.logoDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.linkedInAnimate {
+    width: 250px;
+    height: 250px;
+}

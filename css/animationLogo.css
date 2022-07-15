@@ -43,7 +43,7 @@
     padding: 20px;
 }
 
-.linkedInAnimate:hover {
+.linkedInAnimate{
 
     animation-name: logoAnimation;
     animation-duration: 3.0s;
